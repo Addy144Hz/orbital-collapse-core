@@ -1,2 +1,2 @@
 def parse_signal():
-    return "[TELEMETRY] Satellite data received"
+    return "[TELEMETRY] Data stream nominal"
